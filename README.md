@@ -6,11 +6,11 @@ Gerenciamento de Criptomoedas
 O projeto consiste em, uma carteira onde os investidores irão gerenciar todas as carteiras de investimentos em criptomoedas, facilitando o gerenciamento e a análise de lucro/prejuízo em cada uma das moedas digitais investidas e, o quadro geral.
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1: Brenner
-* Nome completo do aluno 2: Bruno Rafael
-* Nome completo do aluno 3: Davi Rodrigues
-* Nome completo do aluno 4: Henrqiue Augusto
-* Nome completo do aluno 5: Micael
+* Nome completo do aluno 1: Abner Micael Antunes Lima
+* Nome completo do aluno 2: Brenner Terrinha dos Santos
+* Nome completo do aluno 3: Bruno Rafael Santos Oliveira
+* Nome completo do aluno 4: Davi Rodrigues
+* Nome completo do aluno 5: Henrqiue Augusto Rodrigues
 
 ## Professores responsáveis
 
