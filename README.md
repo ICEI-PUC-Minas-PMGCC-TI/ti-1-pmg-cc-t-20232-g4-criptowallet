@@ -20,3 +20,23 @@ O projeto consiste em, uma carteira onde os investidores irão gerenciar todas a
 ## Instruções de utilização
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+
+## Problema (slide 01)
+
+Gerenciamento de múltiplas plataformas de criptmoedas.
+
+## Solução (slide 02 e 03)
+
+Facilitar o gerenciamento de criptomoedas, unificando as corretoras em um único aplicativo.
+
+## Sobre o Software (slide 04 ~)
+Arquitetura do software, engenharia de requisitos.
+
+## Metodologia
+
+Ferramentas, dinâmica do grupo (reuniões), uso do scrum (bom ou ruim?), distribuição de tarefas do grupo
+
+## Status
+
+O que conseguiu alcamçar, o que não está funcionando e, o que pretende fazer futuramente.
+
