@@ -18,7 +18,7 @@ O projeto consiste em, uma carteira onde os investidores irão gerenciar todas a
 * Nome completo do professor 2: Rommel Vieira Carneiro
 
 ## Instruções de utilização
-Para utilizar os nossos serviços, acesse o site através do link: 
+Para utilizar os nossos serviços, acesse o site através do link: https://drachma-v2.astlar.repl.co/
 
 ## Requirements
 Não há a necessidade de instalar nenhuma dependencia para executar o programa.
