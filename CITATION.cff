@@ -1,35 +1,33 @@
 <<<<<<< HEAD
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: CriptoWallet
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: Micael Antunes Lima
+    given-names: Abner
+  - family-names: Terrinha dos Santos
+    given-names: Brenner
+  - family-names: Rafael Santos Oliveira
+    given-names: Bruno
+  - family-names: Rodrigues
+    given-names: Davi
+  - family-names: Rodrigues
+    given-names: Henrique Augusto
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: de Castro Belém
+    given-names: Felipe
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Vieira Carneiro
+    given-names: Rommel
 keywords:
-  - 
-  - 
-repository-code: 
+  - criptomoeda
+  - wallet
+repository-code: https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-t-20232-g4-criptowallet
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2022-07-14
+date-released: 2023-12-13
 =======
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
